@@ -4,9 +4,9 @@
 - O site tem como objetivo ensinar as linguágens **HTML** e **CSS** enquanto o Aluno/Eu coloco a mão na massa.
 - [x] Estrutura de um documento HTML;
 - [x] HTML semântico;
-- [ ] Textos e Links;
-- [ ] Imagens;
-- [ ] Listas.
+- [x] Textos e Links;
+- [x] Imagens;
+- [x] Listas.
 
 ---
 
