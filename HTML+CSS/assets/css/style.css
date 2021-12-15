@@ -1,0 +1,39 @@
+*{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+}
+body{
+    background-color: rgb(32, 169, 128);
+}
+img.perfil-photo{
+    border-radius: 50%;
+}
+#name{
+    line-height: 0.25;
+}
+h1.username{
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 1;
+}
+section{
+    background-color: honeydew;
+    padding: 2rem 1rem 3rem 2rem;
+    border-radius: 5px;
+    
+}
+footer a{
+    text-decoration: none;
+    color: black;
+}
+footer ul{
+    list-style: none;
+    padding: none;
+    margin: 0 0 0 10px;
+    padding: 12px;
+}
+footer ul li{
+    margin: none;
+    display: block;
+    line-height: 2;
+    list-style-position: none;
+}
