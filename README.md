@@ -13,6 +13,8 @@ O repositório tem como objetivo guardar projetos das seguintes linguágens:
 
 - SQL
 
+- NodeJS
+
   E dos seguintes frameworks/Bibliotecas:
 
   - Bootstrap
